@@ -5,6 +5,6 @@ Super Ultra Bravo Mega International Team
 
 |2023|
 |:-----------:|
-|한예슬|
+|<strong>한예슬</strong>|
 |<img src="https://avatars.githubusercontent.com/u/103026978">|
-|[@Ulement92](https://github.com/Ulement92)|
+|<strong>[@Ulement92](https://github.com/Ulement92)</strong>|
