@@ -5,7 +5,7 @@ Super Ultra Bravo Mega International Team
 <br>
 
 
-### 역대 부장
+### 부장
 
 |2023|
 |:-----------:|
